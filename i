@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="LOCAL",GTV BACKUP
 https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
+#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="LOCAL",GTV BACKUPS
+http://ruangwaktu.xyz/kampret-loc/local/ruangtv-778.m3u8
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/rcti.png"  group-title="LOCAL",RCTI
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-665
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/rcti.png"  group-title="LOCAL",RCTI BACKUP
