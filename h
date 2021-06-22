@@ -1,7 +1,5 @@
-#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="LOCAL",GTV VIDIO
-https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="LOCAL",GTV BACKUP
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_2499968=7-mp4a_66000_eng=2.m3u8
+https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=778
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/rcti.png"  group-title="LOCAL",RCTI
 http://home-tv.my.id/RHS/04juni21.m3u8?channel=vidio-665
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/rcti.png"  group-title="LOCAL",RCTI BACKUP
