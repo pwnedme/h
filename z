@@ -32,3 +32,14 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 http://home-tv.my.id/RHS/04juni21mpd.m3u8?channel=cartoonnetwork 
 #EXTINF:-1 tvg-logo=https://i.ibb.co/VHZ5Wr0/aniplus.png group-title="KIDS",ANIPLUS Sub BK1
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="SPORTS", FX Sport 1 BK1
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="SPORTS", FX Sport 1 BK2
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xhPxmPo.png?v=1.0.0.1" group-title="SPORTS", FX Sport 1 BK3
+http://ipeteve.com/php/SR_REGIO_35857/regiotv.php?c=41007
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Skg7qZd.png?v=1.0.0.1" group-title="SPORTS", FX Sport 2 BK1
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5ERoxX.png?v=1.0.0.1" group-title="SPORTS", FX Sport 3 BK1
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
