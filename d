@@ -2,3 +2,5 @@
 https://goldenlivektv.com/Kang.Surya/Channel_Rctimetube.m3u8
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Tambahan CH",RCTI BC2
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Tambahan CH",GTV BC2
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
