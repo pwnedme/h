@@ -6,6 +6,8 @@ https://cdn-livetv-studio.metube.id/rcti.m3u8
 https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg"  group-title="Lokal",RCTI 5
 https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg"  group-title="Lokal",RCTI 6 (VIDIO)
+http://syarman.hexat.com/INDONESIA%20HD/vidio.m3u8
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 1
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 2
