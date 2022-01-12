@@ -7,14 +7,8 @@ https://cdn4.mbahnunungonline.net/m3u8/id/7cb6654ebec98b7.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg"  group-title="Lokal",RCTI 5
 https://fta.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg"  group-title="Lokal",RCTI 6 (VIDIO)
-http://syarman.hexat.com/INDONESIA%20HD/vidio.m3u8
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 1
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 2
-https://cdn-livetv-studio.metube.id/globaltv.m3u8
-#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 3
 https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
-#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 4
-http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=8-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 5
-https://fta.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
+#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 2
+https://on-load.mncnow.id/live/eds/GTV-HD/sa_hls/GTV-HD.m3u8
