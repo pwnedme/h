@@ -11,4 +11,4 @@ https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 1
 https://cdn4.mbahnunungonline.net/m3u8/id/df56d15c1ad325a.m3u8
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 2
-https://on-load.mncnow.id/live/eds/GTV-HD/sa_hls/GTV-HD.m3u8
+https://cubmu.superzap.xyz:8279/gtv/playlist.m3u8
