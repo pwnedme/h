@@ -1,4 +1,7 @@
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 1
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/48
+http://203.77.246.50:5000/udp/239.1.3.68:5000
 #EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 2
-http://iptv12k.com:35461/8022022301/468985/4290
+https://d1akid76fpbq4x.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_64000=2-avc1_800000=6.m3u8
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-logo="https://warkopteve.xyz/img/gtv.png"  group-title="Lokal",GTV 3
+http://203.77.246.50:5000/udp/239.1.3.68:5000
